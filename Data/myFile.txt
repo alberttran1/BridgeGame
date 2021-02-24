@@ -1,0 +1,15 @@
+250,100,500,150/logo.jpg/-1
+425,400,150,45/playButton0.jpg/5
+425,480,150,45/helpButton0.jpg/2
+0,0,1000,700/rules.png/-1
+0,600,100,100/backButton0.png/3
+0,90,1000,460/table.jpg/-1
+900,0,100,100/pauseButton.png/4
+225,50,550,500/bid.png/7
+340,100,320,400/pauseMenu.jpg/-1
+350,110,300,75/homeButton.jpg/0
+350,210,300,75/helpButton0.jpg/2
+0,600,100,100/resetButton.png/5
+400,560,190,45/scoresButton.jpg/8
+350,310,300,75/scoresButton.jpg/8
+350,410,300,75/exitButton.jpg/9
